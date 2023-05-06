@@ -73,8 +73,23 @@
 .bottom-section{
     margin-top: 15px;
     display: flex;
-    align-items: center;
+    align-items: end;
     justify-content: space-between;
+}
+
+.bottom-left{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.bottom-right-top{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.bottom-right-down{
+    font-size: 25px;
+    font-weight: 500;
 }
 /*--------------------------------------bottom section ends--------------------------------------*/
 
